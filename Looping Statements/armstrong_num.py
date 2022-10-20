@@ -1,5 +1,5 @@
 """
-Check if a given number is palindrome or not
+Check if the given number is a Armstrong num or not
 
 """
 
@@ -15,6 +15,6 @@ while num!=0:
   
 
 if n==rev_no:
-   print(n,"Is a palindrome")
+   print(n,"Is an Armstrong number")
 else :
-   print(n,"Is not a palindrome")
+   print(n,"Is not an Armstrong number ")
